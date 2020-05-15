@@ -113,7 +113,6 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<start-class>com.restcalculator.app.app</start-class>
 		
-		
 		<sonar.projectKey>julianemilio_restCalculator3</sonar.projectKey>
   		<sonar.organization>julianemilio</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
