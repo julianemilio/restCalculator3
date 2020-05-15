@@ -15,9 +15,8 @@ steps:
   inputs:
     SonarCloud: 'restCalculator3'
     organization: 'julianemilio'
-    scannerMode: 'CLI'
-    configMode: 'manual'
-    cliSources: '.'
+    scannerMode: 'Other'
+
 - task: Maven@3
   inputs:
     mavenPomFile: 'pom.xml'
