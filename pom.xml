@@ -114,9 +114,9 @@
 		<start-class>com.restcalculator.app.app</start-class>
 		
 		
-		<sonar.projectKey>eidermauricio_restcalculator</sonar.projectKey>
-		<sonar.organization>eidermauricio</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>594e80b4479b4397cafbc4c6659d000a6d45e109</sonar.login>
+		<sonar.projectKey>julianemilio_restCalculator3</sonar.projectKey>
+  		<sonar.organization>julianemilio</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>aa0794782c7ecc1d9d9947a2248febded56d6498</sonar.login>
 	</properties>
 </project>
